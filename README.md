@@ -13,7 +13,7 @@ My name is Evelyn, and I am in the _soccer_ and _track_ team, I am also **Junior
 5. Spanish Language and Culture
 6. English
 7. AP Biology
-8. Study Hall
+8. Study Hall  
 ##Other Information  
   * Where to see my code  
    * [Github](https://github.com/evelyna0008/)
