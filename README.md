@@ -4,7 +4,7 @@ evelyna0008@hstat.org
 **HSTAT**  
 ***
 ##Bio
-My name is Evelyn, and I am in the _soccer_ and _track_ team, I am also **Junior Representative** at HSTAT. I have a dog and i live with my mom and sister  
+My name is Evelyn, and I am in the _soccer_ and _track_ team, I am also **Junior Representative** at **HSTAT**. I have a dog and i live with my mom and sister  
 ##Schedule  
 1. `Software Engineering`  
 2. Advanced Algebra/ Trigonometry  
